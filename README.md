@@ -2,7 +2,7 @@
 ## Ciência de Dados | Analista de Dados |
 
 ### Sobre Mim
-Sou um cientista e analista de dados, apaixonado por resolver problemas complexos e transformar dados em insights acionáveis. Tenho experiência em diversas ferramentas e tecnologias de ciência de dados e gosto de explorar novas abordagens para obter os melhores resultados.
+Sou um cientista de dados e analista de dados, apaixonado por resolver problemas complexos e transformar dados em insights acionáveis. Tenho experiência em diversas ferramentas e tecnologias de ciência de dados e gosto de explorar novas abordagens para obter os melhores resultados.
 
 ### Projetos
 
@@ -18,4 +18,12 @@ Sou um cientista e analista de dados, apaixonado por resolver problemas complexo
 </p>
 - **Descrição**: Projeto de segmentação de clientes utilizando o algoritmo de clustering KMeans para identificar diferentes segmentos de clientes e melhorar as estratégias de marketing.
 
+#### [Análise de Sentimentos.](https://github.com/isaacaraujo2006/data-science/tree/fb0ea74f1c56a28b45a1a3b0b2a77d832a2909a3/projetos/analise_sentimento)
+<p align="center">
+  <img alt="Análise de Sentimentos" src="./assets/analise_sentimento.jpg" width="75%">
+</p>
+- **Este projeto tem como objetivo realizar uma análise de sentimentos em textos, classificando-os como positivos, negativos ou neutros. Para isso, utilizamos técnicas de Processamento de Linguagem Natural (NLP) e modelos de Machine Learning.
+
 <p align="center">&copy; 2025 Isaac Araújo. Todos os direitos reservados.</p>
+
+
